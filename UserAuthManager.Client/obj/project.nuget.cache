@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RNR9otrM+rY=",
+  "dgSpecHash": "qkEVIllSA/Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\Junior_Alves\\Projetos\\UserAuthManager\\UserAuthManager.Client\\UserAuthManager.Client.csproj",
   "expectedPackageFiles": [
@@ -29,8 +29,9 @@
     "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.jsinterop\\9.0.2\\microsoft.jsinterop.9.0.2.nupkg.sha512",
     "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.2\\microsoft.jsinterop.webassembly.9.0.2.nupkg.sha512",
     "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
-    "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.2\\microsoft.net.sdk.webassembly.pack.9.0.2.nupkg.sha512",
-    "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.2.nupkg.sha512"
+    "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.3\\microsoft.net.sdk.webassembly.pack.9.0.3.nupkg.sha512",
+    "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.3\\microsoft.netcore.app.ref.9.0.3.nupkg.sha512",
+    "C:\\Users\\Junior_Alves\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.3.nupkg.sha512"
   ],
   "logs": []
 }
